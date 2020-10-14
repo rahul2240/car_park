@@ -28,12 +28,12 @@ We interact with the system via a file-based input system, i.e. it should accept
 
 1. Clone the repository
 
-2. Run `python3 ParkingLot.py` to run without input test case file. This opens a shell where you can write your commands like -
+2. Run `python3 ParkingLot.py` and enter inputs as shown.
 
-  ![p1]()
+  ![interactive](interactive_input.png)
   
-3. To run with a file execute `python ParkingLot.py -f sample_input.txt. You can modify the test cases.
+3. Run `python3 ParkingLot.py -f sample_input.txt` in case of input as file.
   
-  ![p2]()
+  ![pre_input](file_input.png)
 
 

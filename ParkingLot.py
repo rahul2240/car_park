@@ -2,9 +2,6 @@ import sys
 import Car
 import argparse
 
-if sys.version_info[0] == 2:
-    input = raw_input
-
 class ParkingLot:
     def __init__(self):
         self.capacity = 0
